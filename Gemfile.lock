@@ -109,7 +109,7 @@ GEM
       net-protocol
     netrc (0.11.0)
     nio4r (2.7.4)
-    nokogiri (1.17.2-x86_64-linux)
+    nokogiri (1.18.4-x86_64-linux-gnu)
       racc (~> 1.4)
     otr-activerecord (2.5.0)
       activerecord (>= 6.0, < 8.1)
@@ -133,7 +133,7 @@ GEM
       mojo_magick (~> 0.6.5)
       rqrcode_core (~> 1.0)
     racc (1.8.1)
-    rack (2.2.10)
+    rack (2.2.13)
     rack-protection (3.2.0)
       base64 (>= 0.1.0)
       rack (~> 2.2, >= 2.2.4)
